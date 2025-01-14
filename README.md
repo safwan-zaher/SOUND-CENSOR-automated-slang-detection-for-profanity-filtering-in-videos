@@ -62,6 +62,8 @@ A custom dataset containing 2,648 slang and offensive words was curated for this
 3. **Transcription**:
    - Audio is converted into plain text using WhisperModel.
    - The step is like this
+  
+   
   <p align="center">
   <span>
     <img src="Images/step2.jpeg" alt="Original Image" width="400">
@@ -72,8 +74,10 @@ A custom dataset containing 2,648 slang and offensive words was curated for this
 
 4. **Timestamp Generation**:
    - Each detected word is associated with its start and end timestamps.\
-   - Workflow:
-     <p align="center">
+   - Workflow
+  
+   
+<p align="center">
   <span>
     <img src="Images/step3.jpeg" alt="Original Image" width="400">
   </span>
@@ -87,7 +91,9 @@ A custom dataset containing 2,648 slang and offensive words was curated for this
 6. **Profanity Detection**:
    - Words are compared against the dataset, and matches are flagged for muting.
    - Workflow:
-     <p align="center">
+  
+     
+  <p align="center">
   <span>
     <img src="Images/step4.jpeg" alt="Original Image" width="400">
   </span>
@@ -100,7 +106,7 @@ A custom dataset containing 2,648 slang and offensive words was curated for this
    - Workflow
  <p align="center">
   <span>
-    <img src="Images/step5.jpeg" alt="Original Image" width="400">
+    <img src="Images/step5.png" alt="Original Image" width="400">
   </span>
   <br>
     <em>Fig 5: GUI </em>
@@ -119,4 +125,9 @@ A custom dataset containing 2,648 slang and offensive words was curated for this
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/sound-censor.git
-1. **Open it in Google Collab and run**:
+1. **Open it in Google Collab and run**
+
+
+### Contributions
+
+
