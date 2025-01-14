@@ -129,5 +129,10 @@ A custom dataset containing 2,648 slang and offensive words was curated for this
 
 
 ### Contributions
+- **Md. Safwan Zaher Asif** (Roll: 1907066) 👨‍💻
+- **Kaisarul Islam KAwshik** (Roll: 1907054) 👨‍💻
+
+**Khulna University of Engineering & Technology** 🏫
+
 
 
